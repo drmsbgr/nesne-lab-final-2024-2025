@@ -1,1 +1,1 @@
-## Bu proje 23-24 Nesne Yönelimli Programlama Lab sınavına göre tasarlanmıştır.
+## Bu proje 24-25 Nesne Yönelimli Programlama Lab final sınavına göre tasarlanmıştır.
