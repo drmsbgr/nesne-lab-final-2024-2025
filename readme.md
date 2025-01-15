@@ -1,0 +1,1 @@
+## Bu proje 23-24 Nesne Yönelimli Programlama Lab sınavına göre tasarlanmıştır.
