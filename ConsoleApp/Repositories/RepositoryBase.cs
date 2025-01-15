@@ -19,6 +19,7 @@ public class RepositoryBase<T>(RepositoryContext context) where T : class, new()
     public void Delete(T entity)
     {
         _context.Set<T>().Remove(entity);
+        _context.SaveChanges();
     }
 
     public IEnumerable<T> GetAll()
